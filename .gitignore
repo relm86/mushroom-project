@@ -1,0 +1,8 @@
+# OS
+.DS_Store
+
+# Framework
+/bootstrap/compiled.php
+
+# Composer
+/vendor
